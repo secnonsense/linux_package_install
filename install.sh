@@ -17,7 +17,18 @@ sudo apt install -y \
     gnupg \
     apt-transport-https \
     ca-certificates \
-    software-properties-common
+    software-properties-common \
+    jq \
+    lsof \
+    nordvpn \
+    netcat \
+    p7zip-full \
+    screen \
+    tor \
+    torsocks \
+    dig \
+    whois \
+    xrdp 
 
 # Optional packages (comment out if not needed)
 # sudo apt install -y \
