@@ -20,13 +20,11 @@ sudo apt install -y \
     software-properties-common \
     jq \
     lsof \
-    nordvpn \
     netcat \
     p7zip-full \
     screen \
     tor \
     torsocks \
-    dig \
     whois \
     xrdp 
 
@@ -35,5 +33,7 @@ sudo apt install -y \
 #   firefox \
 #   chromium \
 #   libreoffice
+#    nordvpn \
+#    dig \
 
 echo "Packages installed successfully!"
