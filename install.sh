@@ -20,8 +20,8 @@ sudo apt install -y \
     software-properties-common \
     jq \
     lsof \
-    netcat \
-    p7zip-full \
+    netcat-traditional \
+    7zip-full \
     screen \
     tor \
     torsocks \
