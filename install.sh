@@ -21,7 +21,7 @@ sudo apt install -y \
     jq \
     lsof \
     netcat-traditional \
-    7zip-full \
+    7zip \
     screen \
     tor \
     torsocks \
